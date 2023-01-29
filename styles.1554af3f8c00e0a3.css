@@ -1,0 +1,1 @@
+*{margin:0;padding:0;box-sizing:border-box}html,body{height:100%}body{margin:0;font-family:Roboto,Helvetica Neue,sans-serif}@media (prefers-color-scheme: dark){body{background-color:#202124;color:#fdfdfd}}.arrow{pointer-events:none;z-index:2}.arrow__path{stroke:#00f;fill:transparent;stroke-dasharray:8 4;stroke-width:2}.arrow__head line{stroke:red;stroke-width:2px}
